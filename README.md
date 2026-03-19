@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 
 ```
 sim-eng-ii
+┣━━ learning
+┃   ┣━━ Quantum Error Correction    
+┃   ┣━━ Commong Lisp
+┃                           
 ┣━━ projects
 ┃   ┣━━ ImageClassificationUsingResNet50    – HackCambridge 1st Prize,Image Classification using ResNet50 + CIFAR-10
 ┃   ┣━━ Jumplens                            – A hybrid, multi-sensor tracking system for performance analysis [current]
 ┃   ┣━━ ComputationalQuantumMechanicsGo     – Quantum mechanics exercises in Go
-┃   ┗━━ yquantum-25-bq                      – Solving quantum peaked circuits of increasing difficulty at Yale Quantum Computing Hack.
+┃   ┗━━ yquantum-25-bq (PeakPerf0rmance)    – Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
+┃ 
 ┣━━ contributions
 ┃   ┣━━ qiskit-qec
 ┃   ┣━━ qiskit-cold-atom
