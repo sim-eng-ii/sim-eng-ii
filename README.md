@@ -30,8 +30,9 @@ sim-eng-ii
 ┣━━ contributions
 ┃   ┣━━ qiskit-qec
 ┃   ┣━━ qiskit-cold-atom
-┃   ┣━━ qiskit-braket-provider 
+┃   ┣━━ qiskit-braket-provider
+┃   ┣━━ qiskit-ibm-runtime                 
 ┃   ┣━━ amazon-braket-simulator             - A Quantum program simulators that can run locally
-┃   ┣━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket
-┃   ┗━━ cuda-quantum
+┃   ┗━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket
+┃  
 ```
