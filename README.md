@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 sim-eng-ii
 ┣━━ learning
 ┃   ┣━━ Quantum Error Correction    
-┃   ┣━━ Commong Lisp
+┃   ┣━━ Common Lisp
 ┃                           
 ┣━━ projects
 ┃   ┣━━ ImageClassificationUsingResNet50    – HackCambridge 1st Prize,Image Classification using ResNet50 + CIFAR-10
