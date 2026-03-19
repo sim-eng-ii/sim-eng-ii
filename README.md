@@ -25,14 +25,14 @@ sim-eng-ii
 ┃   ┣━━ ImageClassificationUsingResNet50    – HackCambridge 1st Prize,Image Classification using ResNet50 + CIFAR-10
 ┃   ┣━━ Jumplens                            – A hybrid, multi-sensor tracking system for performance analysis [current]
 ┃   ┣━━ ComputationalQuantumMechanicsGo     – Quantum mechanics exercises in Go
-┃   ┗━━ yquantum-25-bq (PeaQPerf0rmance)    – Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
+┃   ┗━━ yquantum-25-bq (PeaQPerformance)    – Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
 ┃ 
 ┣━━ contributions
-┃   ┣━━ qiskit-qec
-┃   ┣━━ qiskit-cold-atom
-┃   ┣━━ qiskit-braket-provider
+┃   ┣━━ qiskit-qec                          - Qiskit quantum error correction framework
+┃   ┣━━ qiskit-cold-atom                    - Tools to control cold-atom-based quantum simulators and quantum computers.
+┃   ┣━━ qiskit-braket-provider              - Qiskit-Braket provider to execute Qiskit programs on AWS quantum hardware devices through Amazon Braket.
 ┃   ┣━━ qiskit-ibm-runtime                 
-┃   ┣━━ amazon-braket-simulator             - A Quantum program simulators that can run locally
+┃   ┣━━ amazon-braket-simulator             - Quantum program simulators that can run locally
 ┃   ┗━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket
 ┃  
 ```
