@@ -22,7 +22,7 @@ sim-eng-ii
 ┃   ┣━━ Common Lisp
 ┃                           
 ┣━━ projects
-┃   ┣━━ ImageClassificationUsingResNet50    – HackCambridge 1st Prize,Image Classification using ResNet50 + CIFAR-10
+┃   ┣━━ ImageClassificationUsingResNet50    – HackCambridge 1st Prize, Image Classification using ResNet50 + CIFAR-10
 ┃   ┣━━ Jumplens                            – A hybrid, multi-sensor tracking system for performance analysis [current]
 ┃   ┣━━ ComputationalQuantumMechanicsGo     – Quantum mechanics exercises in Go
 ┃   ┗━━ yquantum-25-bq (PeaQPerformance)    – Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
