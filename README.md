@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 sim-eng-ii
 ┣━━ projects
 ┃   ┣━━ ImageClassificationUsingResNet50    – HackCambridge 1st Prize,Image Classification using ResNet50 + CIFAR-10
@@ -28,3 +29,4 @@ sim-eng-ii
 ┃   ┣━━ amazon-braket-simulator             - A Quantum program simulators that can run locally
 ┃   ┣━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket
 ┃   ┗━━ cuda-quantum
+```
