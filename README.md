@@ -31,7 +31,7 @@ sim-eng-ii
 ┃   ┣━━ qiskit-qec                          - Qiskit quantum error correction framework
 ┃   ┣━━ qiskit-cold-atom                    - Tools to control cold-atom-based quantum simulators and quantum computers.
 ┃   ┣━━ qiskit-braket-provider              - Qiskit-Braket provider to execute Qiskit programs on AWS quantum hardware devices through Amazon Braket.
-┃   ┣━━ qiskit-ibm-runtime                 
+┃   ┣━━ qiskit-ibm-runtime                  - IBM Client for Qiskit Runtime.
 ┃   ┣━━ amazon-braket-simulator             - Quantum program simulators that can run locally
 ┃   ┗━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket
 ┃  
