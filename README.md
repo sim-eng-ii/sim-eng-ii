@@ -36,10 +36,6 @@ sim-eng-ii
 ┃   ┣━━ UK Health Security Agency           - ML Engineer 
 ┃   ┣━━ Tech Startup                        - R&D Engineer 
 ┃   ┗━━ Toshiba Cambridge Research Lab      - R&D CASE Student 
-┃
-┣━━ education
-┃   ┣━━ Oxford Uni.
-┃   ┗━━ Imperial College
 ┃     
 ┗━━ learning
     ┣━━ Quantum Error Correction
