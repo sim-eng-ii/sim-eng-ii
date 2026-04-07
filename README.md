@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 
 ```
 sim-eng-ii
-┣━━ learning
-┃   ┣━━ Quantum Error Correction    
-┃   ┣━━ Common Lisp
-┃                           
-┣━━ projects
-┃   ┣━━ ImageClassificationUsingResNet50    – HackCambridge 1st Prize, Image Classification using ResNet50 + CIFAR-10
-┃   ┣━━ Jumplens                            – A hybrid, multi-sensor tracking system for performance analysis [current]
-┃   ┣━━ ComputationalQuantumMechanicsGo     – Quantum mechanics exercises in Go
-┃   ┗━━ yquantum-25-bq (PeaQPerformance)    – Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
-┃ 
 ┣━━ contributions
 ┃   ┣━━ qiskit-qec                          - Qiskit quantum error correction framework
 ┃   ┣━━ qiskit-cold-atom                    - Tools to control cold-atom-based quantum simulators and quantum computers.
@@ -34,5 +24,26 @@ sim-eng-ii
 ┃   ┣━━ qiskit-ibm-runtime                  - IBM Client for Qiskit Runtime.
 ┃   ┣━━ amazon-braket-simulator             - Quantum program simulators that can run locally
 ┃   ┗━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket
-┃  
+┃
+┣━━ projects
+┃   ┣━━ ImageClassificationUsingResNet50    - HackCambridge 1st Prize, Image Classification using ResNet50 + CIFAR-10
+┃   ┣━━ Jumplens                            - A hybrid, multi-sensor tracking system for performance analysis [current]
+┃   ┣━━ ComputationalQuantumMechanicsGo     - Quantum mechanics exercises in Go
+┃   ┗━━ yquantum-25-bq (PeaQPerformance)    - Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
+┃
+┣━━ experience
+┃   ┣━━ Faculty                             - Data Science and Machine Learning 
+┃   ┣━━ UK Health Security Agency           - ML Engineer 
+┃   ┣━━ Tech Startup                        - R&D Engineer 
+┃   ┗━━ Toshiba Cambridge Research Lab      - R&D CASE Student 
+┃
+┣━━ education
+┃   ┣━━ Oxford Uni.
+┃   ┗━━ Imperial College
+┃     
+┗━━ learning
+    ┣━━ Quantum Error Correction
+    ┗━━ Common Lisp                         
+
+
 ```
