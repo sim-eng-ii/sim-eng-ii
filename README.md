@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ```
 sim-eng-ii
 ┣━━ contributions
@@ -36,7 +35,11 @@ sim-eng-ii
 ┃   ┣━━ UK Health Security Agency           - ML Engineer 
 ┃   ┣━━ Tech Startup                        - R&D Engineer 
 ┃   ┗━━ Toshiba Cambridge Research Lab      - R&D CASE Student 
-┃     
+┃
+┣━━ education
+┃   ┣━━ Oxford Uni.                         - Systems architecture, OOP & Design
+┃   ┗━━ Imperial College                    - Lot's of math and physics
+┃  
 ┗━━ learning
     ┣━━ Quantum Error Correction
     ┗━━ Common Lisp                         
