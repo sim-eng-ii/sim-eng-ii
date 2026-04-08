@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ```
 sim-eng-ii
 ┣━━ contributions
+┃   ┣━━ pyket-qiskit                        - Quantinuum extension to pytket allowing pytket circuits to be executed on IBM Quantum backends and simulators
 ┃   ┣━━ qiskit-qec                          - Qiskit quantum error correction framework
 ┃   ┣━━ qiskit-cold-atom                    - Tools to control cold-atom-based quantum simulators and quantum computers.
 ┃   ┣━━ qiskit-braket-provider              - Qiskit-Braket provider to execute Qiskit programs on AWS quantum hardware devices through Amazon Braket.
