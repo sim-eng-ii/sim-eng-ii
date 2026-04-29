@@ -28,8 +28,8 @@ sim-eng-ii
 ┃   ┣━━ ImageClassificationUsingResNet50    - HackCambridge 1st Prize, Image Classification using ResNet50 + CIFAR-10
 ┃   ┣━━ Jumplens                            - A hybrid, multi-sensor tracking system for performance analysis [current]
 ┃   ┣━━ ComputationalQuantumMechanicsGo     - Quantum mechanics exercises in Go
-┃   ┗━━ yquantum-25-bq (PeaQPerformance)    - Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
-┃
+┃   ┣━━ yquantum-25-bq (PeaQPerformance)    - Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
+┃   ┗━━ AugmentED                           - Virtual Simulations of Science Experiments using Augmented Reality (AR) with Python and OpenCV. 
 ┣━━ experience
 ┃   ┣━━ Faculty                             - Data Science and Machine Learning 
 ┃   ┣━━ UK Health Security Agency           - ML Engineer 
