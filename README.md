@@ -38,7 +38,7 @@ sim-eng-ii
 ┃
 ┣━━ education
 ┃   ┣━━ Oxford Uni.                         - Systems architecture, OOP & Design
-┃   ┗━━ Imperial College                    - Lot's of math and physics
+┃   ┗━━ Imperial College                    - Physics
 ┃  
 ┗━━ learning
     ┣━━ Quantum Error Correction
