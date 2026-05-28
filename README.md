@@ -38,7 +38,8 @@ sim-eng-ii
 ┃
 ┣━━ education
 ┃   ┣━━ Oxford Uni.                         - Systems architecture, OOP & Design
-┃   ┗━━ Imperial College                    - Physics
+┃   ┣━━ Imperial College                    - Physics, mathematical physics (QFT)
+┃   ┗━━ London                              - Physics
 ┃  
 ┗━━ learning
     ┣━━ Quantum Error Correction
