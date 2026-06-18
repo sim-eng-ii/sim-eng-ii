@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 ```
 sim-eng-ii
 ┣━━ contributions
-┃   ┣━━ qiskit-qec                          - Qiskit quantum error correction framework
+┃   ┣━━ marqov-sdk                          - A Python SDK for running quantum circuits across multiple hardware backends.
+┃   ┣━━ qiskit-qec                          - Qiskit quantum error correction framework.
 ┃   ┣━━ qiskit-cold-atom                    - Tools to control cold-atom-based quantum simulators and quantum computers.
 ┃   ┣━━ qiskit-braket-provider              - Qiskit-Braket provider to execute Qiskit programs on AWS quantum hardware devices through Amazon Braket.
 ┃   ┣━━ qiskit-ibm-runtime                  - IBM Client for Qiskit Runtime.
-┃   ┣━━ amazon-braket-simulator             - Quantum program simulators that can run locally
-┃   ┗━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket
+┃   ┣━━ amazon-braket-simulator             - Quantum program simulators that can run locally.
+┃   ┗━━ amazon-braket-sdk                   - A Python SDK for interacting with quantum devices on Amazon Braket.
 ┃
 ┣━━ projects
 ┃   ┣━━ ImageClassificationUsingResNet50    - HackCambridge 1st Prize, Image Classification using ResNet50 + CIFAR-10
