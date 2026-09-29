@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 -->
 ```
 sim-eng-ii
+┣━━ experience
+┃   ┣━━ Faculty                             - Data Science and Machine Learning 
+┃   ┣━━ UK Health Security Agency           - ML Engineer 
+┃   ┣━━ Tech Startup                        - R&D Engineer 
+┃   ┗━━ Toshiba Cambridge Research Lab      - R&D CASE Student 
+┃
+┣━━ education
+┃   ┣━━ Oxford Uni.                         - Systems architecture, OOP & Design
+┃   ┣━━ Imperial College                    - Physics, mathematical physics (QFT)
+┃   ┗━━ London                              - Physics
 ┣━━ contributions
 ┃   ┣━━ marqov-sdk                          - A Python SDK for running quantum circuits across multiple hardware backends.
 ┃   ┣━━ qiskit-qec                          - Qiskit quantum error correction framework.
@@ -31,16 +41,6 @@ sim-eng-ii
 ┃   ┣━━ ComputationalQuantumMechanicsGo     - Quantum mechanics exercises in Go
 ┃   ┣━━ yquantum-25-bq (PeaQPerformance)    - Solving peaked quantum circuits of increasing difficulty at Yale Quantum Computing Hack.
 ┃   ┗━━ AugmentED                           - Virtual Simulations of Science Experiments using Augmented Reality (AR) with Python and OpenCV. 
-┣━━ experience
-┃   ┣━━ Faculty                             - Data Science and Machine Learning 
-┃   ┣━━ UK Health Security Agency           - ML Engineer 
-┃   ┣━━ Tech Startup                        - R&D Engineer 
-┃   ┗━━ Toshiba Cambridge Research Lab      - R&D CASE Student 
-┃
-┣━━ education
-┃   ┣━━ Oxford Uni.                         - Systems architecture, OOP & Design
-┃   ┣━━ Imperial College                    - Physics, mathematical physics (QFT)
-┃   ┗━━ London                              - Physics
 ┃  
 ┗━━ learning
     ┣━━ Quantum Error Correction
